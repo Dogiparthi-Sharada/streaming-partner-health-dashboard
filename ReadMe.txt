@@ -2,15 +2,15 @@
 
 An end-to-end analytics and NLP pipeline that monitors Google Play Store reviews for streaming partners such as Disney+ and Max.
 
-## Project Overview
+## Overview
 
 This project pulls live Google Play reviews, applies machine learning-based sentiment analysis and NLP topic detection, stores structured outputs in Airtable, and visualizes partner health metrics in a dashboard.
 
-## Features
+## Key Features
 
-- Google Play review scraping
+- Google Play review scraping for Disney+ and Max
 - Large-scale review dataset creation
-- Random Forest sentiment classification
+- Random Forest NLP sentiment classification
 - Topic detection for issue categorization
 - Airtable API integration
 - Executive dashboard with KPIs and trend monitoring
@@ -40,6 +40,10 @@ This project pulls live Google Play reviews, applies machine learning-based sent
 ## Pipeline
 
 Google Play Reviews -> Python Scraper -> Sentiment Model -> Topic Detection -> Airtable -> Dashboard
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Notes
 
