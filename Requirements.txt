@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+joblib
+google-play-scraper
+scikit-learn
