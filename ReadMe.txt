@@ -41,7 +41,7 @@ This project pulls live Google Play reviews, applies machine learning-based sent
 
 Google Play Reviews -> Python Scraper -> Sentiment Model -> Topic Detection -> Airtable -> Dashboard
 
-## Dashboard Preview
+##Dashboard Preview
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
