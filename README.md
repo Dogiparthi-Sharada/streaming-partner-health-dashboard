@@ -86,7 +86,7 @@ Partner Health Dashboard
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
